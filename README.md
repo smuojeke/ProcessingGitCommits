@@ -23,5 +23,3 @@ Upon executing the script from either the Terminal or Jupyter notebook, you will
 •	Enter the repository in the requested format.
 •	Enter the number of top active contributors you are looking to view.
 •	Wait for processing to complete and a bar chart containing the requested information will be displayed.
-![image](https://user-images.githubusercontent.com/22118368/115452350-e45a0c00-a1f8-11eb-9fee-f8bce8050274.png)
-
